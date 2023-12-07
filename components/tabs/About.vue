@@ -15,10 +15,6 @@
             <div class="section-title">
               <h3>Personal Info</h3>
             </div>
-            <img
-              class="img-mobile"
-              :src="require('@/assets/my-portrait.jpg')"
-            />
             <div class="personal-info">
               <ul>
                 <li>
